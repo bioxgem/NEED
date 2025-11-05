@@ -1,0 +1,61 @@
+	t1
+hsa00010: Glycolysis / Gluconeogenesis	0.006901611477547469
+hsa00052: Galactose metabolism	0.006832584174899279
+hsa00500: Starch and sucrose metabolism	0.005303814434818493
+hsa00190: Oxidative phosphorylation	0.036305319496440565
+hsa00561: Glycerolipid metabolism	0.010209833488697336
+hsa00590: Arachidonic acid metabolism	0.00808485367468171
+hsa00591: Linoleic acid metabolism	0.0031094903926540567
+hsa00240: Pyrimidine metabolism	0.022723400520586322
+hsa00350: Tyrosine metabolism	0.009191934765770505
+hsa00450: Selenocompound metabolism	0.0038136761708199773
+hsa00510: N-Glycan biosynthesis	0.014522728512684952
+hsa00513: Various types of N-glycan biosynthesis	0.010363727479857641
+hsa00900: Terpenoid backbone biosynthesis	0.006121820198922179
+hsa03020: RNA polymerase	0.010518223635748931
+hsa03022: Basal transcription factors	0.018019666291054937
+hsa00970: Aminoacyl-tRNA biosynthesis	0.01720796904201182
+hsa03008: Ribosome biogenesis in eukaryotes	0.057542326492129085
+hsa03013: RNA transport	0.08054500708195703
+hsa03015: mRNA surveillance pathway	0.02581568221382208
+hsa03018: RNA degradation	0.036684797980012444
+hsa03060: Protein export	0.0033744758318784633
+hsa04120: Ubiquitin mediated proteolysis	0.0394509551929712
+hsa04141: Protein processing in endoplasmic reticulum	0.02606082229093489
+hsa03030: DNA replication	0.010792723960438861
+hsa03410: Base excision repair	0.011969440475906505
+hsa03420: Nucleotide excision repair	0.020159500753716184
+hsa03430: Mismatch repair	0.008716890608087448
+hsa03440: Homologous recombination	0.017122019538712525
+hsa03460: Fanconi anemia pathway	0.013039661162714631
+hsa04150: mTOR signaling pathway	0.024334544143807108
+hsa04630: JAK-STAT signaling pathway	0.015367741959308146
+hsa04060: Cytokine-cytokine receptor interaction	0.022182487192863184
+hsa04080: Neuroactive ligand-receptor interaction	0.027869488353655686
+hsa04145: Phagosome	0.020352238363938444
+hsa04110: Cell cycle	0.02637298860953438
+hsa04114: Oocyte meiosis	0.020269236349160776
+hsa04115: p53 signaling pathway	0.014535057234315299
+hsa04217: Necroptosis	0.02149632266616175
+hsa04610: Complement and coagulation cascades	0.015332553878758324
+hsa04620: Toll-like receptor signaling pathway	0.010434427354263549
+hsa04621: NOD-like receptor signaling pathway	0.01796301219986944
+hsa04622: RIG-I-like receptor signaling pathway	0.008351191143528912
+hsa04650: Natural killer cell mediated cytotoxicity	0.013848619581352395
+hsa04659: Th17 cell differentiation	0.01011952741998037
+hsa04914: Progesterone-mediated oocyte maturation	0.019716848528332335
+hsa04915: Estrogen signaling pathway	0.019455128079038778
+hsa04918: Thyroid hormone synthesis	0.015601144157644704
+hsa04919: Thyroid hormone signaling pathway	0.017237521713894324
+hsa04972: Pancreatic secretion	0.013454448243096391
+hsa04973: Carbohydrate digestion and absorption	0.009755552873422455
+hsa04974: Protein digestion and absorption	0.012522921442102536
+hsa04975: Fat digestion and absorption	0.007356937749339666
+hsa04976: Bile secretion	0.009893512920255858
+hsa04962: Vasopressin-regulated water reabsorption	0.011760964542759855
+hsa04966: Collecting duct acid secretion	0.006596974867391787
+hsa04721: Synaptic vesicle cycle	0.014125471752828252
+hsa04726: Serotonergic synapse	0.014679092114105013
+hsa04740: Olfactory transduction	0.009222985881861157
+hsa04742: Taste transduction	0.006941842095052122
+hsa04744: Phototransduction	0.002344259247899572

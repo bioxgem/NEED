@@ -1,0 +1,248 @@
+System	Subsystem	Pathways	core >= 3 (706)	non-EG (524)
+1. Metabolism	1.0 Global and overview maps	hsa01100: Metabolic pathways	0.01	0.01
+1. Metabolism	1.0 Global and overview maps	hsa01200: Carbon metabolism	0.09	0.57
+1. Metabolism	1.0 Global and overview maps	hsa01210: 2-Oxocarboxylic acid metabolism	0	0
+1. Metabolism	1.0 Global and overview maps	hsa01212: Fatty acid metabolism	0	0
+1. Metabolism	1.0 Global and overview maps	hsa01230: Biosynthesis of amino acids	0.08	0.56
+1. Metabolism	1.0 Global and overview maps	hsa01240: Biosynthesis of cofactors	0.46	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00010: Glycolysis / Gluconeogenesis	0.11	1.19
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00020: Citrate cycle (TCA cycle)	0.43	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00030: Pentose phosphate pathway	0	0.61
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00040: Pentose and glucuronate interconversions	0	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00051: Fructose and mannose metabolism	0.38	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00052: Galactose metabolism	0	2.67
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00053: Ascorbate and aldarate metabolism	0	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00500: Starch and sucrose metabolism	0	1.24
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00520: Amino sugar and nucleotide sugar metabolism	0.21	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00562: Inositol phosphate metabolism	0.08	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00620: Pyruvate metabolism	0	0.38
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00630: Glyoxylate and dicarboxylate metabolism	0	0.63
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00640: Propanoate metabolism	0	0
+1. Metabolism	1.1 Carbohydrate metabolism	hsa00650: Butanoate metabolism	0	0
+1. Metabolism	1.10 Biosynthesis of other secondary metabolites	hsa00232: Caffeine metabolism	0	0
+1. Metabolism	1.10 Biosynthesis of other secondary metabolites	"hsa00524: Neomycin, kanamycin and gentamicin biosynthesis"	0	0
+1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	hsa00980: Metabolism of xenobiotics by cytochrome P450	0	0.18
+1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	hsa00982: Drug metabolism - cytochrome P450	0	0.63
+1. Metabolism	1.11 Xenobiotics biodegradation and metabolism	hsa00983: Drug metabolism - other enzymes	0.62	0
+1. Metabolism	1.2 Energy metabolism	hsa00190: Oxidative phosphorylation	2.27	0.18
+1. Metabolism	1.2 Energy metabolism	hsa00910: Nitrogen metabolism	0	0
+1. Metabolism	1.2 Energy metabolism	hsa00920: Sulfur metabolism	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa00061: Fatty acid biosynthesis	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa00062: Fatty acid elongation	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa00071: Fatty acid degradation	0	0.43
+1. Metabolism	1.3 Lipid metabolism	hsa00072: Synthesis and degradation of ketone bodies	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa00100: Steroid biosynthesis	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa00120: Primary bile acid biosynthesis	0	0.93
+1. Metabolism	1.3 Lipid metabolism	hsa00140: Steroid hormone biosynthesis	0	0.28
+1. Metabolism	1.3 Lipid metabolism	hsa00561: Glycerolipid metabolism	0	1.82
+1. Metabolism	1.3 Lipid metabolism	hsa00564: Glycerophospholipid metabolism	0.03	0.76
+1. Metabolism	1.3 Lipid metabolism	hsa00565: Ether lipid metabolism	0.21	0.36
+1. Metabolism	1.3 Lipid metabolism	hsa00590: Arachidonic acid metabolism	0	2.36
+1. Metabolism	1.3 Lipid metabolism	hsa00591: Linoleic acid metabolism	0	1.41
+1. Metabolism	1.3 Lipid metabolism	hsa00592: alpha-Linolenic acid metabolism	0	0.74
+1. Metabolism	1.3 Lipid metabolism	hsa00600: Sphingolipid metabolism	0	0
+1. Metabolism	1.3 Lipid metabolism	hsa01040: Biosynthesis of unsaturated fatty acids	0	0
+1. Metabolism	1.4 Nucleotide metabolism	hsa00230: Purine metabolism	0.68	0.05
+1. Metabolism	1.4 Nucleotide metabolism	hsa00240: Pyrimidine metabolism	1.43	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00220: Arginine biosynthesis	0	0
+1. Metabolism	1.5 Amino acid metabolism	"hsa00250: Alanine, aspartate and glutamate metabolism"	0.33	0
+1. Metabolism	1.5 Amino acid metabolism	"hsa00260: Glycine, serine and threonine metabolism"	0	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00270: Cysteine and methionine metabolism	0.6	0
+1. Metabolism	1.5 Amino acid metabolism	"hsa00280: Valine, leucine and isoleucine degradation"	0	0
+1. Metabolism	1.5 Amino acid metabolism	"hsa00290: Valine, leucine and isoleucine biosynthesis"	0	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00310: Lysine degradation	0	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00330: Arginine and proline metabolism	0	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00340: Histidine metabolism	0	0.81
+1. Metabolism	1.5 Amino acid metabolism	hsa00350: Tyrosine metabolism	0	1.22
+1. Metabolism	1.5 Amino acid metabolism	hsa00360: Phenylalanine metabolism	0	0
+1. Metabolism	1.5 Amino acid metabolism	hsa00380: Tryptophan metabolism	0	0
+1. Metabolism	1.5 Amino acid metabolism	"hsa00400: Phenylalanine, tyrosine and tryptophan biosynthesis"	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00410: beta-Alanine metabolism	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00430: Taurine and hypotaurine metabolism	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00440: Phosphonate and phosphinate metabolism	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00450: Selenocompound metabolism	1.54	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00471: D-Glutamine and D-glutamate metabolism	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00472: D-Arginine and D-ornithine metabolism	0	0
+1. Metabolism	1.6 Metabolism of other amino acids	hsa00480: Glutathione metabolism	0.5	0.79
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00510: N-Glycan biosynthesis	3.12	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00511: Other glycan degradation	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00512: Mucin type O-glycan biosynthesis	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00513: Various types of N-glycan biosynthesis	3.01	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00514: Other types of O-glycan biosynthesis	0.22	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00515: Mannose type O-glycan biosynthesis	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00531: Glycosaminoglycan degradation	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00532: Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00533: Glycosaminoglycan biosynthesis - keratan sulfate	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00534: Glycosaminoglycan biosynthesis - heparan sulfate / heparin	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00563: Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00601: Glycosphingolipid biosynthesis - lacto and neolacto series	0	0.69
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00603: Glycosphingolipid biosynthesis - globo and isoglobo series	0	0
+1. Metabolism	1.7 Glycan biosynthesis and metabolism	hsa00604: Glycosphingolipid biosynthesis - ganglio series	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00130: Ubiquinone and other terpenoid-quinone biosynthesis	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00670: One carbon pool by folate	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00730: Thiamine metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00740: Riboflavin metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00750: Vitamin B6 metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00760: Nicotinate and nicotinamide metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00770: Pantothenate and CoA biosynthesis	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00780: Biotin metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00785: Lipoic acid metabolism	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00790: Folate biosynthesis	0	0
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00830: Retinol metabolism	0	0.67
+1. Metabolism	1.8 Metabolism of cofactors and vitamins	hsa00860: Porphyrin and chlorophyll metabolism	0.79	0
+1. Metabolism	1.9 Metabolism of terpenoids and polyketides	hsa00900: Terpenoid backbone biosynthesis	3.24	0
+2. Genetic Information Processing	2.1 Transcription	hsa03020: RNA polymerase	8.81	0
+2. Genetic Information Processing	2.1 Transcription	hsa03022: Basal transcription factors	4.19	0
+2. Genetic Information Processing	2.2 Translation	hsa00970: Aminoacyl-tRNA biosynthesis	7.86	0
+2. Genetic Information Processing	2.2 Translation	hsa03008: Ribosome biogenesis in eukaryotes	10.81	0
+2. Genetic Information Processing	2.2 Translation	hsa03013: RNA transport	12.72	0
+2. Genetic Information Processing	2.2 Translation	hsa03015: mRNA surveillance pathway	7.01	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa03018: RNA degradation	4.66	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa03060: Protein export	1.28	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa04120: Ubiquitin mediated proteolysis	4.06	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa04122: Sulfur relay system	0	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa04130: SNARE interactions in vesicular transport	0	0
+2. Genetic Information Processing	"2.3 Folding, sorting and degradation"	hsa04141: Protein processing in endoplasmic reticulum	1.11	0.02
+2. Genetic Information Processing	2.4 Replication and repair	hsa03030: DNA replication	8.4	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03410: Base excision repair	2.73	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03420: Nucleotide excision repair	6.94	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03430: Mismatch repair	5.44	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03440: Homologous recombination	4.81	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03450: Non-homologous end-joining	0.88	0
+2. Genetic Information Processing	2.4 Replication and repair	hsa03460: Fanconi anemia pathway	2.48	0
+3. Environmental Information Processing	3.1 Membrane transport	hsa02010: ABC transporters	0.24	0.4
+3. Environmental Information Processing	3.2 Signal transduction	hsa04010: MAPK signaling pathway	0	0.01
+3. Environmental Information Processing	3.2 Signal transduction	hsa04012: ErbB signaling pathway	0.05	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04014: Ras signaling pathway	0	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04015: Rap1 signaling pathway	0	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04020: Calcium signaling pathway	0	0.34
+3. Environmental Information Processing	3.2 Signal transduction	hsa04022: cGMP-PKG signaling pathway	0	0.02
+3. Environmental Information Processing	3.2 Signal transduction	hsa04024: cAMP signaling pathway	0	0.25
+3. Environmental Information Processing	3.2 Signal transduction	hsa04064: NF-kappa B signaling pathway	0.03	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04066: HIF-1 signaling pathway	0.58	0.08
+3. Environmental Information Processing	3.2 Signal transduction	hsa04068: FoxO signaling pathway	0.06	0.04
+3. Environmental Information Processing	3.2 Signal transduction	hsa04070: Phosphatidylinositol signaling system	0.03	0.1
+3. Environmental Information Processing	3.2 Signal transduction	hsa04071: Sphingolipid signaling pathway	0.02	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04072: Phospholipase D signaling pathway	0.01	0.14
+3. Environmental Information Processing	3.2 Signal transduction	hsa04150: mTOR signaling pathway	1.59	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04151: PI3K-Akt signaling pathway	0	0.82
+3. Environmental Information Processing	3.2 Signal transduction	hsa04152: AMPK signaling pathway	0.23	0.06
+3. Environmental Information Processing	3.2 Signal transduction	hsa04310: Wnt signaling pathway	0.02	0.02
+3. Environmental Information Processing	3.2 Signal transduction	hsa04330: Notch signaling pathway	0.15	0.28
+3. Environmental Information Processing	3.2 Signal transduction	hsa04340: Hedgehog signaling pathway	0	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04350: TGF-beta signaling pathway	0.43	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04370: VEGF signaling pathway	0	0.28
+3. Environmental Information Processing	3.2 Signal transduction	hsa04371: Apelin signaling pathway	0.15	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04390: Hippo signaling pathway	0.1	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04392: Hippo signaling pathway - multiple species	0	0
+3. Environmental Information Processing	3.2 Signal transduction	hsa04630: JAK-STAT signaling pathway	0	3.31
+3. Environmental Information Processing	3.2 Signal transduction	hsa04668: TNF signaling pathway	0	0.07
+3. Environmental Information Processing	3.3 Signaling molecules and interaction	hsa04060: Cytokine-cytokine receptor interaction	0	3.43
+3. Environmental Information Processing	3.3 Signaling molecules and interaction	hsa04061: Viral protein interaction with cytokine and cytokine receptor	0	0
+3. Environmental Information Processing	3.3 Signaling molecules and interaction	hsa04080: Neuroactive ligand-receptor interaction	0	4.46
+3. Environmental Information Processing	3.3 Signaling molecules and interaction	hsa04512: ECM-receptor interaction	0	0.86
+3. Environmental Information Processing	3.3 Signaling molecules and interaction	hsa04514: Cell adhesion molecules	0	0.03
+4. Cellular Processes	4.1 Transport and catabolism	hsa04136: Autophagy - other	0.99	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04137: Mitophagy - animal	0.1	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04140: Autophagy - animal	0.15	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04142: Lysosome	0.4	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04144: Endocytosis	0.58	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04145: Phagosome	1.97	0
+4. Cellular Processes	4.1 Transport and catabolism	hsa04146: Peroxisome	0.06	0.16
+4. Cellular Processes	4.2 Cell growth and death	hsa04110: Cell cycle	9.12	0
+4. Cellular Processes	4.2 Cell growth and death	hsa04114: Oocyte meiosis	4.09	0.05
+4. Cellular Processes	4.2 Cell growth and death	hsa04115: p53 signaling pathway	1.1	0
+4. Cellular Processes	4.2 Cell growth and death	hsa04210: Apoptosis	0.05	0
+4. Cellular Processes	4.2 Cell growth and death	hsa04215: Apoptosis - multiple species	0.39	0
+4. Cellular Processes	4.2 Cell growth and death	hsa04216: Ferroptosis	0.28	0
+4. Cellular Processes	4.2 Cell growth and death	hsa04217: Necroptosis	0.02	1.58
+4. Cellular Processes	4.2 Cell growth and death	hsa04218: Cellular senescence	0.42	0.02
+4. Cellular Processes	4.3 Cellular community - eukaryotes	hsa04510: Focal adhesion	0	0.01
+4. Cellular Processes	4.3 Cellular community - eukaryotes	hsa04520: Adherens junction	0	0
+4. Cellular Processes	4.3 Cellular community - eukaryotes	hsa04530: Tight junction	0.17	0.02
+4. Cellular Processes	4.3 Cellular community - eukaryotes	hsa04540: Gap junction	0.21	0.13
+4. Cellular Processes	4.3 Cellular community - eukaryotes	hsa04550: Signaling pathways regulating pluripotency of stem cells	0.01	0.03
+4. Cellular Processes	4.5 Cell motility	hsa04810: Regulation of actin cytoskeleton	0	0
+5. Organismal Systems	5.1 Immune system	hsa04062: Chemokine signaling pathway	0	0
+5. Organismal Systems	5.1 Immune system	hsa04610: Complement and coagulation cascades	0	1.35
+5. Organismal Systems	5.1 Immune system	hsa04611: Platelet activation	0	0
+5. Organismal Systems	5.1 Immune system	hsa04612: Antigen processing and presentation	0	0.54
+5. Organismal Systems	5.1 Immune system	hsa04613: Neutrophil extracellular trap formation	0	0.18
+5. Organismal Systems	5.1 Immune system	hsa04620: Toll-like receptor signaling pathway	0	2.78
+5. Organismal Systems	5.1 Immune system	hsa04621: NOD-like receptor signaling pathway	0	2.03
+5. Organismal Systems	5.1 Immune system	hsa04622: RIG-I-like receptor signaling pathway	0	3.55
+5. Organismal Systems	5.1 Immune system	hsa04623: Cytosolic DNA-sensing pathway	3.94	3.27
+5. Organismal Systems	5.1 Immune system	hsa04625: C-type lectin receptor signaling pathway	0	0.68
+5. Organismal Systems	5.1 Immune system	hsa04640: Hematopoietic cell lineage	0	0
+5. Organismal Systems	5.1 Immune system	hsa04650: Natural killer cell mediated cytotoxicity	0	3.12
+5. Organismal Systems	5.1 Immune system	hsa04657: IL-17 signaling pathway	0.18	0.39
+5. Organismal Systems	5.1 Immune system	hsa04658: Th1 and Th2 cell differentiation	0	0.81
+5. Organismal Systems	5.1 Immune system	hsa04659: Th17 cell differentiation	0	1.06
+5. Organismal Systems	5.1 Immune system	hsa04660: T cell receptor signaling pathway	0	0.09
+5. Organismal Systems	5.1 Immune system	hsa04662: B cell receptor signaling pathway	0	0.16
+5. Organismal Systems	5.1 Immune system	hsa04664: Fc epsilon RI signaling pathway	0	0.22
+5. Organismal Systems	5.1 Immune system	hsa04666: Fc gamma R-mediated phagocytosis	0.17	0
+5. Organismal Systems	5.1 Immune system	hsa04670: Leukocyte transendothelial migration	0	0.07
+5. Organismal Systems	5.1 Immune system	hsa04672: Intestinal immune network for IgA production	0	0.37
+5. Organismal Systems	5.10 Environmental adaptation	hsa04710: Circadian rhythm	0.43	0
+5. Organismal Systems	5.10 Environmental adaptation	hsa04713: Circadian entrainment	0	0
+5. Organismal Systems	5.10 Environmental adaptation	hsa04714: Thermogenesis	0.19	0.02
+5. Organismal Systems	5.2 Endocrine system	hsa03320: PPAR signaling pathway	0	0.19
+5. Organismal Systems	5.2 Endocrine system	hsa04614: Renin-angiotensin system	0	0
+5. Organismal Systems	5.2 Endocrine system	hsa04910: Insulin signaling pathway	0.05	0.04
+5. Organismal Systems	5.2 Endocrine system	hsa04911: Insulin secretion	0	0.89
+5. Organismal Systems	5.2 Endocrine system	hsa04912: GnRH signaling pathway	0	0
+5. Organismal Systems	5.2 Endocrine system	hsa04913: Ovarian steroidogenesis	0	0.34
+5. Organismal Systems	5.2 Endocrine system	hsa04914: Progesterone-mediated oocyte maturation	3.41	0
+5. Organismal Systems	5.2 Endocrine system	hsa04915: Estrogen signaling pathway	0	1.47
+5. Organismal Systems	5.2 Endocrine system	hsa04916: Melanogenesis	0	0.09
+5. Organismal Systems	5.2 Endocrine system	hsa04917: Prolactin signaling pathway	0	0
+5. Organismal Systems	5.2 Endocrine system	hsa04918: Thyroid hormone synthesis	0	1.04
+5. Organismal Systems	5.2 Endocrine system	hsa04919: Thyroid hormone signaling pathway	1.09	0
+5. Organismal Systems	5.2 Endocrine system	hsa04920: Adipocytokine signaling pathway	0	0.21
+5. Organismal Systems	5.2 Endocrine system	hsa04921: Oxytocin signaling pathway	0	0.12
+5. Organismal Systems	5.2 Endocrine system	hsa04922: Glucagon signaling pathway	0.12	0.66
+5. Organismal Systems	5.2 Endocrine system	hsa04923: Regulation of lipolysis in adipocytes	0	0
+5. Organismal Systems	5.2 Endocrine system	hsa04924: Renin secretion	0	0.64
+5. Organismal Systems	5.2 Endocrine system	hsa04925: Aldosterone synthesis and secretion	0	0.1
+5. Organismal Systems	5.2 Endocrine system	hsa04926: Relaxin signaling pathway	0	0.04
+5. Organismal Systems	5.2 Endocrine system	hsa04927: Cortisol synthesis and secretion	0	0.24
+5. Organismal Systems	5.2 Endocrine system	"hsa04928: Parathyroid hormone synthesis, secretion and action"	0	0.66
+5. Organismal Systems	5.2 Endocrine system	hsa04929: GnRH secretion	0	0.24
+5. Organismal Systems	5.2 Endocrine system	"hsa04935: Growth hormone synthesis, secretion and action"	0	0.24
+5. Organismal Systems	5.3 Circulatory system	hsa04260: Cardiac muscle contraction	0.86	0.45
+5. Organismal Systems	5.3 Circulatory system	hsa04261: Adrenergic signaling in cardiomyocytes	0.03	0.03
+5. Organismal Systems	5.3 Circulatory system	hsa04270: Vascular smooth muscle contraction	0	0.04
+5. Organismal Systems	5.4 Digestive system	hsa04970: Salivary secretion	0	0.12
+5. Organismal Systems	5.4 Digestive system	hsa04971: Gastric acid secretion	0	0.55
+5. Organismal Systems	5.4 Digestive system	hsa04972: Pancreatic secretion	0.03	2.9
+5. Organismal Systems	5.4 Digestive system	hsa04973: Carbohydrate digestion and absorption	0	2.21
+5. Organismal Systems	5.4 Digestive system	hsa04974: Protein digestion and absorption	0	1.55
+5. Organismal Systems	5.4 Digestive system	hsa04975: Fat digestion and absorption	0	2.9
+5. Organismal Systems	5.4 Digestive system	hsa04976: Bile secretion	0	1.79
+5. Organismal Systems	5.4 Digestive system	hsa04977: Vitamin digestion and absorption	0	0.76
+5. Organismal Systems	5.4 Digestive system	hsa04978: Mineral absorption	0	0.28
+5. Organismal Systems	5.4 Digestive system	hsa04979: Cholesterol metabolism	0	0.94
+5. Organismal Systems	5.5 Excretory system	hsa04960: Aldosterone-regulated sodium reabsorption	0	0
+5. Organismal Systems	5.5 Excretory system	hsa04961: Endocrine and other factor-regulated calcium reabsorption	0.56	0.32
+5. Organismal Systems	5.5 Excretory system	hsa04962: Vasopressin-regulated water reabsorption	1.79	0
+5. Organismal Systems	5.5 Excretory system	hsa04964: Proximal tubule bicarbonate reclamation	0	0
+5. Organismal Systems	5.5 Excretory system	hsa04966: Collecting duct acid secretion	3.58	0.67
+5. Organismal Systems	5.6 Nervous system	hsa04720: Long-term potentiation	0	0.22
+5. Organismal Systems	5.6 Nervous system	hsa04721: Synaptic vesicle cycle	3.86	0.53
+5. Organismal Systems	5.6 Nervous system	hsa04722: Neurotrophin signaling pathway	0	0
+5. Organismal Systems	5.6 Nervous system	hsa04723: Retrograde endocannabinoid signaling	0	0.64
+5. Organismal Systems	5.6 Nervous system	hsa04724: Glutamatergic synapse	0	0.6
+5. Organismal Systems	5.6 Nervous system	hsa04725: Cholinergic synapse	0	0.07
+5. Organismal Systems	5.6 Nervous system	hsa04726: Serotonergic synapse	0	1.37
+5. Organismal Systems	5.6 Nervous system	hsa04727: GABAergic synapse	0.05	0.85
+5. Organismal Systems	5.6 Nervous system	hsa04728: Dopaminergic synapse	0.01	0.04
+5. Organismal Systems	5.6 Nervous system	hsa04730: Long-term depression	0.13	0
+5. Organismal Systems	5.7 Sensory system	hsa04740: Olfactory transduction	0	13.87
+5. Organismal Systems	5.7 Sensory system	hsa04742: Taste transduction	0	5.52
+5. Organismal Systems	5.7 Sensory system	hsa04744: Phototransduction	0	1.44
+5. Organismal Systems	5.7 Sensory system	hsa04750: Inflammatory mediator regulation of TRP channels	0	0.1
+5. Organismal Systems	5.8 Development and regeneration	hsa04360: Axon guidance	0	0.07
+5. Organismal Systems	5.8 Development and regeneration	hsa04380: Osteoclast differentiation	0	0.21
+5. Organismal Systems	5.9 Aging	hsa04211: Longevity regulating pathway	0.05	0
+5. Organismal Systems	5.9 Aging	hsa04213: Longevity regulating pathway - multiple species	0	0

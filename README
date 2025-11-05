@@ -1,9 +1,0 @@
-# SIEG
-Systematic IDentification of Essential Genes (SIEG) is a model to quantify gene essentiality and identify pan-cancer core essential genes (pan-cancer CEGs).
-
-### Usage
-```
-python calculate_sgrep_hisbim_score.py -s TCGA_pan-cancer_PCC0.5_sgrep.txt -g a_set_of_706_core_524_non-EGs_knowledge-based_pathway_enrichment.txt -o CEGs_706_NotCEGs_706
-```
-
-
