@@ -13,6 +13,16 @@ This repository accompanies the study and includes code for data processing and 
 ## Description
 ![](SIEG.png)
 **Fig 2. Diagrammatic breakdown of SIEG model.**
+
+## Data sources
+
+A priori CEG datasets are curated from the following pooled CRISPR/Cas9 knockout references:
+
+- [High-Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities](https://doi.org/10.1016/j.cell.2015.11.015) (Hart et al., _Cell_, 2015)
+- [Evaluation and Design of Genome-Wide CRISPR/SpCas9 Knockout Screens](https://doi.org/10.1534/g3.117.041277) (Hart et al., _G3 Genes|Genomes|Genetics_, 2017)
+- [Prioritization of cancer therapeutic targets using CRISPR–Cas9 screens](https://www.nature.com/articles/s41586-019-1103-9) (Behan et al., _Nature_, 2019)
+- [Integrated cross-study datasets of genetic dependencies in cancer](https://www.nature.com/articles/s41467-021-21898-7) (Pacini et al, _Nature Communications_, 2021)
+
 ## Installation and setup
 ### Project dependencies
 This project uses `Python` version 3.10.14.
@@ -37,6 +47,6 @@ python calculate_SIEG_score.py \
     -o CEGs_706_NotCEGs_706
 ```
 ## Help
-For any technical questions regarding SIEG datasets and scripts, please contact ([BioXGEM](https://bioxgem.life.nctu.edu.tw/bioxgem/)). 
+For any technical questions regarding SIEG datasets and scripts, please contact [BioXGEM](https://bioxgem.life.nctu.edu.tw/bioxgem/). 
 
 Thank you for your interest in our study!
