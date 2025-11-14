@@ -18,10 +18,10 @@ This repository accompanies the study and includes code for data processing and 
 
 A priori CEG datasets are curated from the following pooled CRISPR/Cas9 knockout references:
 
-- [High-Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities](https://doi.org/10.1016/j.cell.2015.11.015) (Hart et al., _Cell_, 2015)
-- [Evaluation and Design of Genome-Wide CRISPR/SpCas9 Knockout Screens](https://doi.org/10.1534/g3.117.041277) (Hart et al., _G3 Genes|Genomes|Genetics_, 2017)
-- [Prioritization of cancer therapeutic targets using CRISPR–Cas9 screens](https://www.nature.com/articles/s41586-019-1103-9) (Behan et al., _Nature_, 2019)
-- [Integrated cross-study datasets of genetic dependencies in cancer](https://www.nature.com/articles/s41467-021-21898-7) (Pacini et al, _Nature Communications_, 2021)
+- [1580 human core fitness genes](https://www.cell.com/cms/10.1016/j.cell.2015.11.015/attachment/11268869-c530-4f14-9e70-6a19db4bf8d0/mmc3.xlsx) was downloaded from [Hart et al., _Cell_, 2015](https://doi.org/10.1016/j.cell.2015.11.015)
+- [684 human core essential genes](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/g3journal/7/8/10.1534_g3.117.041277/18/041277_tables2.txt?Expires=1766125380&Signature=behB-oTNovZpFDGY-yTpyAcSvzzzsE98-7LUb3xMS-AoSRZWgLv1NJdtp6vQbXl~bHVq6vYQTREzAWCKvyL3t0ySP~USWpfGMMWM4SzhS5jfSpmJGgYuAQ7DTIdL2udzF56ENtpuyUeLeSPCvn~6LPn5ImoTWCh8fXlNtj-yIj1IaP0fcGlX3C4uTab0J6ty77WBF3cvlf2rDJRpYoqn9ZavBGwmZ-OBYzz6HW8zXNNnpY63ZbmTVxDb8-4oJmiilGRC6o-9-hZew4zh2VxV4ceQGpSk7Y342QTVyf1MOXf6HFxavOVV3RLt6VuWxOyY~wYLhR-btjKlIiaK84ztrA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) was downloaded from [Hart et al., _G3 Genes|Genomes|Genetics_, 2017](https://doi.org/10.1534/g3.117.041277)
+- [553 pan-cancer core fitness genes](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-019-1103-9/MediaObjects/41586_2019_1103_MOESM4_ESM.zip) was downloaded from [Behan et al., _Nature_, 2019](https://www.nature.com/articles/s41586-019-1103-9)
+- [1912 common essential genes](https://depmap.org/portal/data_page/?tab=allData) was downloaded from [Pacini et al, _Nature Communications_, 2021](https://www.nature.com/articles/s41467-021-21898-7)
 
 ## Installation and setup
 ### Project dependencies
