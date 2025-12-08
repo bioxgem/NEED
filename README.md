@@ -35,7 +35,7 @@ The following `Python` packages are used in this repository:
 - `scipy` (v1.12.0)
 ### Project initialization
 ```bash
-git clone https://github.com/Debby-zhou/SIEG.git
+git clone https://github.com/bioxgem/SIEG.git
 
 cd SIEG
 ```
