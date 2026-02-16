@@ -47,6 +47,6 @@ python calculate_NEED_score.py \
     -o CEGs_706_NotCEGs_706
 ```
 ## Help
-For any technical questions regarding SIEG datasets and scripts, please contact [BioXGEM](https://bioxgem.life.nctu.edu.tw/bioxgem/). 
+For any technical questions regarding NEED datasets and scripts, please contact [BioXGEM](https://bioxgem.life.nctu.edu.tw/bioxgem/). 
 
 Thank you for your interest in our study!
