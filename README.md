@@ -37,7 +37,7 @@ The following `Python` packages are used in this repository:
 ```bash
 git clone https://github.com/bioxgem/NEED.git
 
-cd SIEG
+cd NEED
 ```
 ## Usage instructions
 ```bash
