@@ -1,4 +1,4 @@
-# Systematic Identification of Essential Genes (SIEG)
+# Network-based Essential Genes Estimation and Discovery (NEED)
 To construct a comprehensive catalog of pan-cancer CEGs and their corresponding mechanisms as potential therapeutic targets, we integrated diverse biological datasets and applied a machine learning model to prioritize pan-cancer essentiality based on single-gene pathway regulation behaviors. To systematically assess both genotypic and phenotypic characteristics, we incorporated genomic, transcriptomic, functional, and prognostic datasets (Fig. 1A). Subsequently, we developed SIEG model to assess functional-level essentiality by analyzing pan-cancer influence on both essential and non-essential pathways (Fig. 1B). This enabled the identification of pan-cancer CEGs, whose shared regulatory behaviors were categorized into six essential signatures (e.g., transcription, translation, folding and degradation, replication and repair, cell growth and death, energy), distinguishing different pan-cancer CEG types (Fig. 1C): C<sub>1</sub> and C<sub>2</sub> are classic pan-cancer CEGs which are in charge of DNA replication and repair and cell growth and death. C<sub>3</sub> is pan-lethal CEGs due to transcription and protein folding and degradation emerging in both tumor and normal cells. C<sub>4</sub> are tumor-selective CEGs because of the regulations of energy metabolism (Fig. 1D). TTo study therapeutic vulnerabilities, we incorporated antineoplastic agents and drug response data across cancer types. To study prognostic vulnerabilities, we further integrated clinical outcome data to evaluate patient survival across multiple cancers, considering both cellular and individual vulnerabilities (Fig. 1E).
 
 ![](Framework.png)
@@ -11,8 +11,8 @@ This repository accompanies the study and includes code for data processing and 
 
 
 ## Description
-![](SIEG.png)
-**Fig 2. Diagrammatic breakdown of SIEG model.**
+![](NEED.png)
+**Fig 2. Diagrammatic breakdown of NEED model.**
 
 ## Data sources
 
@@ -35,13 +35,13 @@ The following `Python` packages are used in this repository:
 - `scipy` (v1.12.0)
 ### Project initialization
 ```bash
-git clone https://github.com/bioxgem/SIEG.git
+git clone https://github.com/bioxgem/NEED.git
 
 cd SIEG
 ```
 ## Usage instructions
 ```bash
-python calculate_SIEG_score.py \
+python calculate_NEED_score.py \
     -s TCGA_pan-cancer_PCC0.5_sgrep.txt \
     -g a_set_of_706_core_524_non-EGs_knowledge-based_pathway_enrichment.txt \
     -o CEGs_706_NotCEGs_706
